@@ -5,10 +5,6 @@ You can upload your own file or try out a sample dataset and instantly get insig
 
 ---
 
-[![Open in Streamlit](https://csv-excel-analyzer.streamlit.app/)
-
----
-
 ## 🚀 Features
 
 - 📂 Upload your own CSV, Excel, or TXT file
@@ -24,10 +20,6 @@ You can upload your own file or try out a sample dataset and instantly get insig
 ---
 ---
 
-## 🧪 Try the App Online
-
-[Live Demo](https://csv-excel-file-analyzer.streamlit.app/)
----
 
 ## 🛠️ Technologies Used
 
